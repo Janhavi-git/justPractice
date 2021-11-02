@@ -9,7 +9,6 @@ cobol
 c
 c++
 
-python 
 ruby
 
 korean 
